@@ -1,31 +1,26 @@
 .bookings-section {
   padding: 20px;
 }
-
 .bookings-section h2 {
   text-align: center;
   margin-bottom: 20px;
 }
-
 table {
   width: 80%;
   margin: 0 auto;
   border-collapse: collapse;
   background-color: white;
 }
-
 table,
 th,
 td {
   border: 1px solid #ccc;
 }
-
 th,
 td {
   padding: 10px;
   text-align: center;
 }
-
 th {
   background-color: #3366cc;
   color: white;
@@ -34,21 +29,17 @@ body {
   font-family: Arial;
   background-color: #f2f2f2;
 }
-
 .header {
   background-color: #3366cc;
   color: white;
   padding: 15px;
 }
-
 .header h1 {
   margin: 0;
 }
-
 .nav {
   margin-top: 10px;
 }
-
 .nav a {
   color: white;
   text-decoration: none;
@@ -103,3 +94,4 @@ body {
   padding: 10px;
   margin-top: 20px;
 }
+
